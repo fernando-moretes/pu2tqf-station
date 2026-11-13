@@ -1,0 +1,15 @@
+Hello from Brazil! I'm Fernando, Papa Uniform Two Tango Quebec Foxtrot. Welcome to my station in São Bernardo do Campo, in the state of São Paulo.
+
+By profession, I'm a solutions architect. Software engineering, cloud infrastructure, and cybersecurity are part of my world. I enjoy connecting ideas through Python, automation, and practical experiments. Amateur radio brings that same curiosity into the air.
+
+My station is small, but every signal opens a door. On H F, I use a compact u S D X transceiver with roughly three to five watts of radio frequency output. An outdoor antenna and digital modes help me explore what low power can achieve. My first F T eight contact was with Chile, on November seventh, twenty twenty-six.
+
+Behind the radio, a Raspberry Pi and my home laboratory help with audio, logging, and monitoring. I like building dashboards that turn signals into stories. A reception report is not the same as a completed contact, and I enjoy learning what the data really tells us.
+
+There is much more to hear. With software defined radio, I explore aircraft signals, weather balloons, F M station information, and satellite reception. Some experiments work, others become useful notes for the next attempt. Following a tiny weather transmitter through the atmosphere is a wonderful reminder of how much is happening above us.
+
+I also enjoy local V H F and U H F communication, and digital voice through a hotspot and the BrandMeister network. That worldwide connection uses the internet alongside radio. Different technologies, different paths, and plenty to learn.
+
+Away from the microphone, you may find me learning Morse code, experimenting with LoRa and Meshtastic, working with E S P thirty-two boards, or designing a three D printed enclosure. My workshop is a meeting point for radio, software, and hands-on curiosity.
+
+I share what I learn through my projects, station notes, and the Escuta Aberta educational radio listening project. If we meet on the bands, I would love to exchange a contact and hear your story. Thanks for visiting my station. Seventy-three from Fernando, Papa Uniform Two Tango Quebec Foxtrot!
